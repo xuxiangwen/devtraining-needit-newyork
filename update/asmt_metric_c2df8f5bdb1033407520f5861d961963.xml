@@ -33,7 +33,6 @@
         <plugin/>
         <question>Which image is the prettiest?</question>
         <randomize_answers>false</randomize_answers>
-        <read_only>false</read_only>
         <reference_table/>
         <scale>high</scale>
         <scored>true</scored>
